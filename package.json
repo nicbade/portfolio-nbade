@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-nbade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicbade/portfolio-nbade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicbade/portfolio-nbade/issues"
+  },
+  "homepage": "https://github.com/nicbade/portfolio-nbade#readme"
+}
