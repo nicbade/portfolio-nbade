@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-nbade",
+  "version": "1.0.0",
+  "description": "Portfolio page with HTML5, CSS3 and Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicbade/portfolio-nbade.git"
+  },
+  "author": "Nic Bade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicbade/portfolio-nbade/issues"
+  },
+  "homepage": "https://github.com/nicbade/portfolio-nbade#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
